@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b57d8d0acc1e68c47bd22baf05a88b91, type: 3}
-  m_Name: DefaultMapSettingsSO
+  m_Name: Default Map Settings
   m_EditorClassIdentifier: Assets.Scripts.Models::MapSettingsSO
   <MinMaxDimensions>k__BackingField:
     x: 3
